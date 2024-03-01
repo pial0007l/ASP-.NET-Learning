@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CompanyEmployees/.vs/CompanyEmployees/config/applicationhost.config
+/CompanyEmployees/.vs/CompanyEmployees/FileContentIndex/a0e4a027-2a47-46f0-bbbc-09c8bf9d960d.vsidx
+/CompanyEmployees/.vs/CompanyEmployees/FileContentIndex/f923ea44-b94e-419d-9819-a265ddfcf12d.vsidx
+/CompanyEmployees/CompanyEmployees/obj/Debug/net8.0/ApiEndpoints.json
+/CompanyEmployees/CompanyEmployees/Properties/launchSettings.json
